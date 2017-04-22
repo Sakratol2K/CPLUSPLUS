@@ -1,7 +1,8 @@
 //Programmer: Daniel Constantine
 //Contact: daniel.constantine@live.lagcc.cuny.edu
 //Date: September 29, 2016
-//Description: This program was an assignment form my MAC101 class. This class takes a value from the user and then calculate it in function 4x^3 + x^2 + 3x - 5
+//Description: This program was an assignment from my MAC101 class. 
+//This program takes a value from the user and then calculate it in function 4x^3 + x^2 + 3x - 5
 
 #include <iostream>
 using namespace std;
