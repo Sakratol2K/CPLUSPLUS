@@ -1,0 +1,4 @@
+This folder contains my code for TicTacToe project. Here is the simple summary from those files
+  The main.cpp is the main program, 
+  TTT.h is where I declare my class and its functions, and
+  TTT.cpp is where I define my function from my class.
